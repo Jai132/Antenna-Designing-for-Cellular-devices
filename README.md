@@ -1,9 +1,9 @@
 # Getting Started
 
-### Installation
+## Installation
 To understand the designs and the results, it is recommended that the user installs Ansys Electronics Suite by Ansoft (download the student desktop suite, if you're looking for a free version).
 
-Installation link: https://www.ansys.com/en-in/academic/students/ansys-electronics-desktop-student
+> Installation link: https://www.ansys.com/en-in/academic/students/ansys-electronics-desktop-student
 
 ### Opening the project files
 #### To open an existing project:
@@ -16,4 +16,4 @@ Installation link: https://www.ansys.com/en-in/academic/students/ansys-electroni
 
 ### To clone the repository
 Run the following git command on your terminal and press Enter:
-`git clone https://github.com/Jai132/Antenna-Designing-for-Cellular-devices.git`
+> `git clone https://github.com/Jai132/Antenna-Designing-for-Cellular-devices.git`
