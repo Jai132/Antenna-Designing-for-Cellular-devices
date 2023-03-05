@@ -11,5 +11,5 @@ Installation link: https://www.ansys.com/en-in/academic/students/ansys-electroni
 > + Select the project you want to work on.
 #### To open a new project:
 > + Click on File and select New File, or simply press Ctrl+N
-> + An untitled file will open up, save that file by clicking on Save as
+> + An untitled file will open up, save that file by clicking on Save As
 > + Type in the name of the project and give it an extension (for eg. your_file_name.aedt)
