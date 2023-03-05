@@ -19,6 +19,9 @@ Run the following git command on your terminal and press Enter:
 > `git clone https://github.com/Jai132/Antenna-Designing-for-Cellular-devices.git`
 
 
-This much should be more than enough as a beginner to electronic design.....any changes or suggestions are appreciated and welcome.
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+
+
+This much should be more than enough as a beginner to electronic design.....any changes or suggestions are appreciated and welcome🙏
+
 
