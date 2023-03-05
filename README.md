@@ -13,3 +13,7 @@ Installation link: https://www.ansys.com/en-in/academic/students/ansys-electroni
 > + Click on File and select New File, or simply press Ctrl+N
 > + An untitled file will open up, save that file by clicking on Save As
 > + Type in the name of the project and give it an extension (for eg. your_file_name.aedt)
+
+### To clone the repository
+Run the following git commands on your terminal:
+1. 'git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY'
