@@ -18,8 +18,7 @@ To understand the designs and the results, it is recommended that the user insta
 Run the following git command on your terminal and press Enter:
 > `git clone https://github.com/Jai132/Antenna-Designing-for-Cellular-devices.git`
 
-&nbsp
-&nbsp
+----------------------------------------------------------------------------------
 
 This much should be more than enough as a beginner to electronic design.....any changes or suggestions are appreciated and welcome🙏
 
