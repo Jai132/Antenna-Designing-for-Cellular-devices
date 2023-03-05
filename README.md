@@ -16,4 +16,4 @@ Installation link: https://www.ansys.com/en-in/academic/students/ansys-electroni
 
 ### To clone the repository
 Run the following git command on your terminal and press Enter:
-> `git clone https://github.com/Jai132/Antenna-Designing-for-Cellular-devices.git`
+`git clone https://github.com/Jai132/Antenna-Designing-for-Cellular-devices.git`
