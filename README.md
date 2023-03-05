@@ -1,4 +1,4 @@
-# A Brief Introduction
+# Getting Started
 
 ### Installation
 To understand the designs and the results, it is recommended that the user installs Ansys Electronics Suite by Ansoft (download the student desktop suite, if you're looking for a free version).
