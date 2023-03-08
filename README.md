@@ -1,3 +1,12 @@
+
+# Antenna Designing for Cellular devices
+Antenna design for communication devices involves several considerations, including frequency band of operation, radiation pattern, gain, impedance matching, polarization, and size constraints.
+
+This repository contains all the designs and research papers that were used and made while making these designs.
+
+Hello! My name is Jai. I made this repository to share all my learnings along the way and to connect with new people in the same field and take their input. My work up until now is a bit clumsy and currently my designs are faraway from achieving network capabalities of the current industrial standards. The aim is to create a design that is both smaller and faster than the current industrial designs.
+
+
 # Getting Started
 
 ## Installation
@@ -23,11 +32,3 @@ Run the following git command on your terminal and press Enter:
 
 
 This much should be more than enough as a beginner to electronic design.....any changes or suggestions are appreciated and welcome🙏
-
-
-# Antenna Designing for Cellular devices
-Antenna design for communication devices involves several considerations, including frequency band of operation, radiation pattern, gain, impedance matching, polarization, and size constraints.
-
-This repository contains all the designs and research papers that were used and made while making these designs.
-
-Hello! My name is Jai. I made this repository to share all my learnings along the way and to connect with new people in the same field and take their input. My work up until now is a bit clumsy and currently my designs are faraway from achieving network capabalities of the current industrial standards. The aim is to create a design that is both smaller and faster than the current industrial designs.
